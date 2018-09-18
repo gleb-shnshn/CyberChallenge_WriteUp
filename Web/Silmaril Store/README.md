@@ -8,7 +8,7 @@
 
 ## Решение
 
-Так как POST - запрос отправляет html - код, то мы можем изменить value у товара на 1 и спокойно купить товар
+Так как POST - запрос отправляет html - код, то мы можем изменить стоимость у товара на 0 и спокойно купить товар
 
 <img src="https://raw.githubusercontent.com/gleb270/CyberChallenge_WriteUp/master/Web/Silmaril Store/Store_1.png"
      width="70%"></img>
