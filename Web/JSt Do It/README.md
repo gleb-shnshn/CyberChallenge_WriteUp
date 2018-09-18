@@ -1,4 +1,4 @@
-# Silmaril Store
+# JSt Do It
 
 ## Задание
 
