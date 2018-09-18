@@ -16,10 +16,10 @@
 Тогда переходим по ссылке <http://inc.2018.cyberchallenge.ru/index.php?page=php://filter/convert.base64-encode/resource=index.php> 
 с помощью которой получаем исходный код страницы в base64 по протоколу php, после этого декодируем, например, здесь <https://www.base64decode.org>, и в коде видим, что он запрещает переходить на /th1s_1s_the_h1dd3n_fl4g.7x7
 
-<img src="https://raw.githubusercontent.com/gleb270/CyberChallenge_WriteUp/master/Web/Just Ad/Code.png"
+<img src="https://raw.githubusercontent.com/gleb270/CyberChallenge_WriteUp/master/Web/Just Add/Code.png"
      width="70%"></img>
 
 Вместо этого переходим по ссылке <http://inc.2018.cyberchallenge.ru/index.php?page=/./th1s_1s_the_h1dd3n_fl4g.7x7> и видим флаг: **CC{leaRnIng_phP}**
 
-<img src="https://raw.githubusercontent.com/gleb270/CyberChallenge_WriteUp/master/Web/Just Ad/Flag.png"
+<img src="https://raw.githubusercontent.com/gleb270/CyberChallenge_WriteUp/master/Web/Just Add/Flag.png"
      width="70%"></img>
