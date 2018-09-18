@@ -19,7 +19,7 @@ Unnamed repository; edit this file 'description' to name the repository.
 <img src="https://raw.githubusercontent.com/gleb270/CyberChallenge_WriteUp/master/Web/Octocat/Dump.png"
      width="70%"></img>
 
-В папке Dump находим 2 commit-a в одном из которых в файле flag.php есть флаг: CC{CseK6Eo762c_octocat_is_fuuuuuuuun}
+В папке Dump находим 2 commit-a в одном из которых в файле flag.php есть флаг: **CC{CseK6Eo762c_octocat_is_fuuuuuuuun}**
 
 <img src="https://raw.githubusercontent.com/gleb270/CyberChallenge_WriteUp/master/Web/Octocat/Flag.png"
      width="70%"></img>
