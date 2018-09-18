@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/gleb270/CyberChallenge_WriteUp/master/Web/Kavichka/Kavichka_1.png"
      width="70%"></img>
 	 
-Используем логин **admin' or "1"=="1";**, а пароль - **password** логинимся и видим флаг: **CC{4crgYRC45NY_is_this_flag}**
+Используем логин **admin' or "1"=="1";** , а пароль - **password** логинимся и видим флаг: **CC{4crgYRC45NY_is_this_flag}**
 
 <img src="https://raw.githubusercontent.com/gleb270/CyberChallenge_WriteUp/master/Web/Kavichka/Kavichka_2.png"
      width="70%"></img>
