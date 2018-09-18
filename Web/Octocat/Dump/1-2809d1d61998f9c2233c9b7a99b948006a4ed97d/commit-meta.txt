@@ -1,0 +1,5 @@
+tree 7e76618a49ee1c8c7a13d4458b3a4bbdb767d2ca
+author Nikita Kozlov <kozlovzxc@gmail.com> 1535053437 +0300
+committer Nikita Kozlov <kozlovzxc@gmail.com> 1535053437 +0300
+
+sample task
