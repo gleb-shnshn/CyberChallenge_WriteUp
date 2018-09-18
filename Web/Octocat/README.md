@@ -11,7 +11,7 @@ Unnamed repository; edit this file 'description' to name the repository.
 Название и описание наталкивают на мысль, о том, что задание связано с git.
 
 <img src="https://raw.githubusercontent.com/gleb270/CyberChallenge_WriteUp/master/Web/Octocat/Sign.png"
-     width="70%"></img>
+     width="40%"></img>
 
 Качаем GitTools, качаем Dump сайта командой **./gitdumper.sh http://octocat.cyberchallenge.ru/.git/ Dump**
 разархивируем Dump с помощью **./extractor.sh ~/Desktop/GitTools/Dumper/Dump Dump**
