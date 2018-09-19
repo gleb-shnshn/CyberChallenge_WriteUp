@@ -18,5 +18,3 @@ def encrypt(x, n):
 for i in range(3):
     flag=encrypt(list(flag), 0)
     print(flag)
-
-# This script prints "TWEGaEc9C0NIeSYhD08YP1BkIDUFQzJ9" 
