@@ -6,7 +6,7 @@
 
 ## Решение
 
-Название говорит о том, что шифрование - One Time Pad, тогда у нас есть специальный сайт.
+Название говорит о том, что шифрование - One Time Pad, тогда у нас есть специальный сайт <https://toolbox.lotusfa.com/crib_drag/>.
 
 <img src="https://raw.githubusercontent.com/gleb270/CyberChallenge_WriteUp/master/Crypto/One Time/OT.png"
      width="70%"></img>
