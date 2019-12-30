@@ -14,7 +14,7 @@
      width="70%"></img>
 
 Если попытаться загрузить **code.php.jpg** он не работает, тогла путем проверок понимаем, что файл убирает htaccess из названия и делаем название файла **code.phtaccesshp.jpg**
-Запускаем BurpSuite, отправляем файл, изменяем в пакете имя на **code.php** , заходим на ссылку из HTML кода и получаем флаг: **СС{place for flag}**
+Запускаем BurpSuite, отправляем файл, изменяем в пакете имя на **code.php** , заходим на ссылку из HTML кода и получаем флаг: **CC{bl4ckl1sts_4nd_s4n1t1z4t10n}**
 
 <img src="https://raw.githubusercontent.com/gleb270/CyberChallenge_WriteUp/master/Web/ImageBox 2/IB_2.png"
      width="70%"></img>
